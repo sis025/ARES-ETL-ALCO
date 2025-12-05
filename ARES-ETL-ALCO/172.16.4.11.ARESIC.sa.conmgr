@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="172.16.4.11.ARESIC.sa"
+  DTS:DTSID="{5D2E3DC1-AEF6-463E-AF1C-9E3D51AA49DE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=172.16.4.11;User ID=sa;Initial Catalog=ARESIC;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-ARES-ETL-ALCO-{5D2E3DC1-AEF6-463E-AF1C-9E3D51AA49DE}172.16.4.11.ARESIC.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAieUuXRX4+EelZtV09AmlOwAAAAACAAAAAAAQZgAAAAEAACAAAAAH2aqDQDgnPQHF6RoD2R2RAJagoN3/qRCoYCbZnL517wAAAAAOgAAAAAIAACAAAADATbEWypum1T+IMMymTzJIVa21B2mFGnHMPRgpyaCnqYAAAAAnbmoi2IKofbjH/BxyqXdCeLvSvX4UYFYV/pkDRJ1kBVK9clguP42ad2FACYd0iPreQsaw/qTX3Fzg+bUtXtnmpMh2WyACCV0q/ZcFXyOS8E9xI+EY5yi0mPrps4USm7TatVqKMGH77Xixq0JhyWqfERZJB+JJ36eKUdYWdKpIDUAAAABiSms2vJU/HssLbmsBYBpTAw3ll3Bn53aYQ6wxNb94QYDCUgoRU+U50qtEFgv92m9oqH10vRdwwSOPWDGVT3rx</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

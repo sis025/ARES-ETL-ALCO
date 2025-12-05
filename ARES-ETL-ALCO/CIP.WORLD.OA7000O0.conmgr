@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="CIP WORLD OA7000O0"
+  DTS:DTSID="{0FEC3FC5-22E1-4F09-9F92-D7EF90059E56}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=CIP.WORLD;User ID=OA7000O0;Provider=OraOLEDB.Oracle.1;Persist Security Info=True;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAieUuXRX4+EelZtV09AmlOwAAAAACAAAAAAAQZgAAAAEAACAAAAD2xNJJIUF0JT31qgODDQ10hFtIlprKRm6/67Lm6lCqvgAAAAAOgAAAAAIAACAAAABCRwZyKBgp6llCawnMMTj15G/jzBjaHBgSSmoYDlXVGYAAAADOkDaAJRAnRMZkVmsGO4gM9nyhZqhxBHxQ0clY5ZelTe22mWHuUZyHjOwdquVoRjUkvCBXhaTeYwcPLm+CiIXTWXa56Qw0ubrkdvt5c1qEt4gYZkZynvN+2b9JobP8JaNcC6G9xPjMFHZtvO6l2lzBpXEi5XTCtSRhN2Cu6SDxAUAAAADW6k0LCn2hM8vC0jzpil//j27ybgkXmNmJAC5yRmCXpB2TGMlClQtRKnXIK/jW2r55x/TAT2ZT6wZ1zu/JS8fL</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
